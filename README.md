@@ -1,0 +1,5 @@
+STEP BY STEP GUIDE TO IMPLEMENT AWS COGNITO AUTHENTICATION TO A PHP APPLICATION WITH HOSTED UI. 
+PLEASE FOLLOW THE INSTRUCTIONS IN THE BLOG POST,
+
+https://www.thedeveloperfriend.com/aws-cognito/aws-cognito-authentication-php/
+
